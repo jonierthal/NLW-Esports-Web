@@ -1,0 +1,5 @@
+instalações para o projeto - reac js (web):
+
+Iniciar projeto: npm create vite@latest
+
+Dependências: npm install
