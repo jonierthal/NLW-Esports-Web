@@ -3,3 +3,8 @@ instalações para o projeto - reac js (web):
 Iniciar projeto: npm create vite@latest
 
 Dependências: npm install
+
+TailWind: npm install -D tailwindcss postcss autoprefixer
+	  npx tailwindcss init 		
+
+Icons Phospor React: npm i phosphor-react
